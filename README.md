@@ -193,6 +193,30 @@ This gives management a quick view of unresolved complaints and where service pr
 
 ![Salesforce CRM Dashboard](figures/Fig_13_PulseFit_CRM_Dashboard.png)
 
+### Interactive Tableau Dashboard
+
+As part of this group Business Intelligence and CRM project, an interactive
+version of the **Operations and Experience Dashboard** was developed and
+published on Tableau Public.
+
+The dashboard provides an interactive view of operational performance and
+customer experience, allowing users to explore:
+
+- Complaint volume by type and severity
+- Average complaint resolution time
+- Complaint trends over time
+- Customer satisfaction ratings
+- Equipment downtime
+- Maintenance costs by equipment type
+- Repeat maintenance issues
+
+The interactive version allows users to explore the visualisations and examine
+operational patterns beyond the static dashboard shown above.
+
+### 🔗 Explore the Interactive Dashboard
+
+[**View the Operations & Experience Dashboard on Tableau Public**](https://public.tableau.com/app/profile/princewill.madugba/viz/OperationsandExperienceDashboard/OperationsExperienceDashboard?publish=yes)
+
 ## My Contribution
 
 This was a team project, so I want to be clear about the parts I personally worked on.
